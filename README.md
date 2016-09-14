@@ -3,10 +3,10 @@ A simple weather app for Android that fetches the current weather data using the
 
 ### Screenshots:
 #### Home Screen *(City = NYC)*
-![NYC Weather](/z - Screenshots/1.png)
+<img src="z - Screenshots/1.png" height="600px" width="auto"/>
 
 #### Change City Function
-![Change City](/z - Screenshots/2.png)
+<img src="z - Screenshots/2.png" height="600px" width="auto"/>
 
 #### Home Screen *(City = SG)*
-![SG Weather](/z - Screenshots/3.png)
+<img src="z - Screenshots/3.png" height="600px" width="auto"/>
